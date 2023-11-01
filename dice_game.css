@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+    background-color: rgb(208, 206, 206);
+    box-sizing: border-box;
+}
+.first
+{
+    font-size: 500%;
+}
+.second
+{
+    font-size: 300%;
+}
+.third
+{
+    text-align: center;
+    font-size: 200%;
+}
+.fifth
+{
+    color:red;
+    background-color:aqua;
+    cursor:pointer;
+}
